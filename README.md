@@ -24,106 +24,107 @@ This list focuses on tools where AI agents autonomously prospect, write outreach
 
 Autonomous AI agents that replace or augment human Sales Development Reps — prospecting, writing outreach, handling replies, and booking meetings without manual intervention.
 
-- [11x (Alice & Jordan)](https://www.11x.ai) - Autonomous AI workers that research prospects, craft personalized emails, handle replies, and book meetings 24/7 across inbound and outbound.
-- [Artisan (Ava)](https://www.artisan.co) - AI BDR that automates outbound demand generation with access to 300M+ contacts, handling lead sourcing, personalization, and outreach.
-- [AiSDR](https://aisdr.com) - AI sales development platform that generates personalized email and text campaigns, auto-scores leads, and automates follow-ups.
-- [Regie.ai](https://www.regie.ai) - Autonomous AI prospecting agents that discover prospects, enrich data, monitor buying signals, and execute multi-channel campaigns.
-- [Salesforce Agentforce SDR](https://www.salesforce.com/sales/ai-sales-agent/ai-sdr/) - Native Salesforce AI SDR that automates outbound prospecting using Data Cloud and proprietary AI models.
-- [Landbase](https://www.landbase.com) - Agentic AI SDR powered by GTM-1 Omni multi-agent model that strategizes, executes, and optimizes multi-channel sales campaigns autonomously.
-- [Persana AI (Nia)](https://persana.ai) - Autonomous sales agents combining 1B+ contacts through 75+ data providers, automating up to 90% of sales development.
-- [Reply.io (Jason AI)](https://reply.io) - AI SDR agent that handles responses, manages objections, and books meetings across email, LinkedIn, WhatsApp, and SMS.
-- [Salesforge (Agent Frank)](https://www.salesforge.ai) - AI sales agent with Autopilot (fully autonomous) and Co-pilot (human-in-the-loop) modes for prospecting and outreach.
-- [Conversica](https://www.conversica.com) - Revenue digital assistants that conduct persistent, human-like email and SMS conversations to qualify, nurture, and re-engage leads at scale.
-- [Jeeva AI](https://www.jeeva.ai) - Autonomous AI sales agents combining lead discovery, personalized outreach, and real-time enrichment for B2B teams.
-- [Amplemarket](https://www.amplemarket.com) - Signal-led outbound platform with AI copilot "Duo" that monitors 20+ buyer signals and generates personalized sequences across channels.
-- [Oneshot AI](https://www.oneshot.ai) - Multi-agent AI SDR system with specialized Insight Agents, Personalization Agents, and Integration Agents.
-- [Topo.io](https://topo.io) - Autonomous AI SDR handling the full outbound process from prospect research to personalized outreach to meeting handoff.
-- [Qualified (Piper)](https://www.qualified.com) - Always-on AI SDR agent that engages website visitors via text, voice, and video, qualifies them, and books meetings.
+- [11x (Alice & Jordan)](https://www.11x.ai) - AI agents for outbound sales development. Alice handles prospecting, email outreach, reply handling, and meeting booking; Jordan is a phone agent that makes and receives calls to qualify leads.
+- [Artisan (Ava)](https://www.artisan.co) - Outbound sales platform with an AI assistant called Ava that searches a database of 300M+ B2B contacts, generates personalized email and LinkedIn sequences, and manages email deliverability.
+- [AiSDR](https://aisdr.com) - Automates sales outreach across email, LinkedIn, and SMS using a 700M+ contact database. Generates messages based on LinkedIn activity and CRM data, handles follow-ups, and supports multiple languages.
+- [Regie.ai](https://www.regie.ai) - Sales engagement platform combining a sequencing tool, 220M+ contact database, AI dialer, and AI agents that run outbound email and LinkedIn campaigns. Integrates with Salesforce and Outreach.
+- [Salesforce Agentforce SDR](https://www.salesforce.com/sales/ai-sales-agent/ai-sdr/) - AI agent within Salesforce Sales Cloud that responds to inbound leads, answers product questions, handles objections, and books meetings via email and WhatsApp using CRM data.
+- [Landbase](https://www.landbase.com) - Go-to-market platform combining a 300M+ B2B contact database, intent signal detection from 1,500+ sources, and AI-generated outbound messaging using models trained on B2B campaign data.
+- [Persana AI (Nia)](https://persana.ai) - Sales development tool that draws from 1B+ contacts and 75+ data sources to find prospects, enrich lead profiles, and run outreach across email and LinkedIn. Can operate on autopilot for follow-ups and meeting booking.
+- [Reply.io (Jason AI)](https://reply.io) - Sales outreach platform with an AI agent called Jason that finds leads from a 1B+ contact database, creates multichannel sequences (email, LinkedIn, calls), handles replies, and books meetings across 50+ languages.
+- [Salesforge (Agent Frank)](https://www.salesforge.ai) - AI SDR called Agent Frank that runs email and LinkedIn outreach in fully automated or human-supervised modes. Includes email infrastructure, warm-up tooling, and lead sourcing.
+- [Conversica](https://www.conversica.com) - AI conversation platform for marketing, sales, and customer success teams that engages leads and customers via email, SMS, and chat using pre-built conversation flows. Supports lead follow-up, customer health checks, and collections.
+- [Jeeva AI](https://www.jeeva.ai) - Sales automation platform using multiple AI agents to handle outbound prospecting, lead enrichment, personalized email and LinkedIn outreach, reply handling, and meeting scheduling. Integrates with existing CRMs.
+- [Amplemarket](https://www.amplemarket.com) - Sales engagement platform combining a B2B lead database, multichannel sequencing (email, LinkedIn, WhatsApp, iMessage), and an AI copilot called Duo that monitors buying signals like job changes and competitor activity to trigger outreach.
+- [Oneshot AI](https://www.oneshot.ai) - Prospecting platform using a multi-agent system (Insight, Personalization, Integration, Persona, and Scaling agents) to research prospects, generate tailored messages, and sync activity with CRMs like HubSpot and Salesforce.
+- [Topo.io](https://topo.io) - B2B sales platform offering AI-driven outbound prospecting (lead sourcing, contact enrichment, personalized messaging) alongside digital sales rooms for buyer-seller collaboration, including shared content and deal tracking. Integrates with Salesforce, HubSpot, and Pipedrive.
+- [Qualified (Piper)](https://www.qualified.com) - Website conversion platform for Salesforce users. Its AI agent, Piper, engages inbound visitors via live chat, voice, and video, qualifies them using Salesforce data, books meetings, and follows up by email.
 
 ## AI Sales Agents & Copilots
 
-AI systems that work alongside reps — providing real-time call guidance, automating CRM busywork, and proactively moving deals forward.
+AI systems that work alongside reps — providing real-time call guidance, automating CRM updates, and moving deals forward.
 
-- [Monaco](https://www.monaco.com) - AI-native sales platform replacing fragmented sales stacks with a single agentic system that proactively prospects, generates outreach, and moves deals forward. Pairs AI with experienced human salespeople in the loop.
-- [Pocus](https://www.pocus.com) - AI-powered sales intelligence with signal-based playbooks that equip reps to run every GTM motion across the customer journey.
-- [Sybill](https://www.sybill.ai) - AI assistant that generates call summaries, auto-fills CRM fields (MEDDPICC), drafts follow-up emails, and provides deal intelligence.
-- [Glyphic](https://www.glyphic.ai) - AI sales copilot that reclaims 5–10 admin hours per rep per week through automated CRM updates, coaching insights, and GTM intelligence.
-- [Clari Copilot](https://www.clari.com/products/copilot/) - Real-time conversation intelligence surfacing battle cards, competitive mentions, and coaching cues live during sales calls.
-- [Momentum](https://www.momentum.io) - Real-time AI copilot that auto-transcribes calls and pushes summaries and action items to CRM and Slack.
-- [Lavender](https://www.lavender.ai) - AI email coach that scores emails in real-time, suggests improvements, and personalizes drafts using prospect data — trained on 200M+ sales emails.
+- [Monaco](https://www.monaco.com) - Sales platform for startups that combines CRM, prospecting, and outreach into a single system. Automates building target account lists, recording meetings, drafting follow-ups, and updating deal records, with human sales experts reviewing AI output.
+- [Pocus](https://www.pocus.com) - Sales intelligence platform that aggregates CRM, product usage, email, and call data to surface high-intent accounts and recommend which prospects to contact. Generates account plans and suggests outreach messaging.
+- [Sybill](https://www.sybill.ai) - Sales assistant that records and summarizes calls, tracks buyer engagement during conversations, automates CRM updates and follow-up emails, and scores deals with suggested next steps based on call and email history.
+- [Glyphic](https://www.glyphic.ai) - Conversation intelligence tool that transcribes and analyzes sales calls, auto-updates CRM records, scores deals against frameworks like MEDDIC and BANT, and provides coaching metrics such as talk-to-listen ratio and speaking speed.
+- [Clari Copilot](https://www.clari.com/products/copilot/) - Conversation intelligence tool (formerly Wingman) providing real-time call transcription, live battlecards during calls, automated CRM field updates from meeting content, and deal summaries fed into Clari's forecasting workflows.
+- [Momentum](https://www.momentum.io) - Automation layer connecting sales call recorders (like Gong), Salesforce, and Slack. Automatically updates CRM fields, sends deal alerts to Slack, generates call summaries, and creates Slack-based deal rooms synced with Salesforce.
+- [Lavender](https://www.lavender.ai) - Email assistant that scores draft sales emails on a 0–100 scale based on length, reading level, tone, and personalization, then suggests improvements. Surfaces prospect and company data within the email composer.
 
 ## AI Visibility & GEO
 
-AI-native tools for Generative Engine Optimization — monitoring and improving how your brand appears in AI-generated answers across ChatGPT, Perplexity, Gemini, and other AI search engines.
+Tools for Generative Engine Optimization — monitoring and improving how brands appear in AI-generated answers across ChatGPT, Perplexity, Gemini, and other AI search engines.
 
-- [Sitefire](https://sitefire.ai) - YC-backed marketing suite for the agentic web that analyzes AI answer funnels, identifies citation gaps, and generates AI-optimized content delivered directly into your CMS.
-- [Profound](https://www.tryprofound.com) - Enterprise AI visibility platform monitoring brand citations across 10+ AI engines (ChatGPT, Claude, Perplexity, Gemini, Copilot) with real-time front-end visibility snapshots. G2 AEO Grid category leader.
-- [Frase](https://www.frase.io) - Agentic SEO & GEO platform where an AI agent handles research, writing, optimization, and publishing for both traditional and AI search engines.
+- [Sitefire](https://sitefire.ai) - Analyzes how AI models (ChatGPT, Gemini, etc.) source and cite web content, then generates optimized pages and identifies third-party sites to increase brand visibility in AI-generated answers.
+- [Profound](https://www.tryprofound.com) - Tracks brand visibility across AI answer engines (ChatGPT, Perplexity, Google AI Overviews), monitors real user prompts, analyzes citations, and generates content briefs to improve how a brand appears in AI search results.
+- [Frase](https://www.frase.io) - Researches top-ranking pages for a given topic, provides a content editor with real-time SEO scoring, and includes a GEO score for optimizing content to be cited by AI platforms like ChatGPT and Perplexity.
 
 ## Website Personalization
 
-AI-native tools that dynamically change website content, CTAs, and experiences for different visitors, segments, or target accounts — in real time, without code changes.
+Tools that dynamically change website content, CTAs, and experiences for different visitors, segments, or target accounts in real time.
 
-- [Mutiny](https://www.mutinyhq.com) - AI-powered B2B website personalization that recommends audience segments and customizes web journeys, landing pages, and CTAs without coding.
-- [Intellimize (Webflow Optimize)](https://www.intellimize.com) - AI/ML-driven website optimization that simultaneously tests content variations and auto-determines what converts best.
-- [Personify XP](https://www.personifyxp.com) - GDPR-friendly AI that analyzes visitor behavior in real-time, auto-segmenting and adjusting website content.
+- [Mutiny](https://www.mutinyhq.com) - No-code B2B website personalization platform that uses visitor data (industry, company size, CRM records) to dynamically swap page content, headlines, and CTAs for different audience segments and target accounts.
+- [Intellimize (Webflow Optimize)](https://www.intellimize.com) - Runs multivariate experiments on website pages and uses AI to automatically allocate traffic toward the best-performing content variations for each visitor segment.
+- [Personify XP](https://www.personifyxp.com) - Personalizes website content in real time for anonymous visitors by interpreting on-site behavior and inferring visit intent, without relying on cookies or personal data. Now part of Aprimo.
 
 ## Conversation Intelligence
 
-Tools that record, transcribe, and analyze sales conversations — extracting coaching insights, deal signals, and performance analytics using AI.
+Tools that record, transcribe, and analyze sales conversations — extracting coaching insights, deal signals, and performance analytics.
 
-- [Gong](https://www.gong.io) - Revenue intelligence with conversation analytics, deal tracking, AI coaching, and forecasting. The category leader.
-- [Chorus (ZoomInfo)](https://www.chorus.ai) - Conversation intelligence capturing and analyzing calls, meetings, and email with keyword tracking and call scoring.
-- [Fireflies.ai](https://fireflies.ai) - AI meeting assistant with transcription across Zoom/Teams/Meet, sentiment analysis, engagement metrics, and 50+ integrations.
-- [Fathom](https://fathom.video) - Free AI notetaker with sales-specific Deal View, CRM field sync, and AI scorecards — 5.0/5 G2 rating.
-- [tl;dv](https://tldv.io) - AI meeting recorder with multilingual transcription (30+ languages), CRM auto-updates, and MEDDIC/BANT coaching playbooks.
-- [Avoma](https://www.avoma.com) - AI meeting platform with talk-pattern analysis, topic trends, automated scoring, and agenda management for revenue teams.
-- [Grain](https://grain.com) - Extracts key points from meetings into shareable video clips and reports, optimized for async collaboration.
-- [Otter.ai](https://otter.ai) - AI meeting assistant with real-time transcription, AI chat for meeting Q&A, and speaker identification.
+- [Gong](https://www.gong.io) - Records and analyzes sales calls, emails, and meetings, then surfaces insights on deal health, coaching opportunities, and pipeline risks. Integrates with Salesforce and HubSpot for data entry and forecasting.
+- [Chorus (ZoomInfo)](https://www.chorus.ai) - Records, transcribes, and analyzes sales calls and meetings to surface conversation insights such as talk time, competitor mentions, and deal risk signals. Part of ZoomInfo, integrating conversation data with its B2B contact database.
+- [Fireflies.ai](https://fireflies.ai) - Joins and records meetings on Zoom, Google Meet, and Microsoft Teams, then generates transcripts, summaries, and action items. Includes speaker talk time and sentiment analytics, and syncs notes to CRMs.
+- [Fathom](https://fathom.video) - Records and transcribes Zoom, Google Meet, and Microsoft Teams meetings, then generates AI summaries and action items. Offers a free tier with unlimited recordings and integrates with CRMs, Slack, and Notion.
+- [tl;dv](https://tldv.io) - Records, transcribes, and summarizes Zoom, Google Meet, and Microsoft Teams meetings with support for 30+ languages. Creates shareable clips from recordings and syncs notes to HubSpot, Salesforce, and Pipedrive.
+- [Avoma](https://www.avoma.com) - Combines meeting recording, transcription, and note-taking with scheduling, conversation scoring, and CRM field auto-population. Supports sales methodologies like MEDDIC and SPICED.
+- [Grain](https://grain.com) - Records and transcribes meetings across Zoom, Google Meet, and Microsoft Teams, generating notes and action items. Supports creating video clips from transcript selections and syncing to HubSpot, Salesforce, and Slack.
+- [Otter.ai](https://otter.ai) - Provides real-time and post-meeting transcription with speaker identification, AI-generated summaries, and action item extraction. Supports uploading pre-recorded files and includes an AI chat feature for querying past meeting content.
 
 ## Lead Scoring & Enrichment
 
 AI tools that find, score, enrich, and prioritize leads using firmographic, technographic, and intent signals.
 
-- [Clay](https://www.clay.com) - AI data enrichment connecting 100+ providers with waterfall enrichment and Claygent AI agent for custom web research and qualification.
-- [Leadbay](https://www.leadbay.ai) - YC-backed AI that trains domain-specific models on your CRM/ERP data and market signals to discover and qualify SMB leads that traditional databases miss.
-- [UserGems](https://www.usergems.com) - Tracks job changes of valuable buyers across your customer base, surfacing pipeline signals and automating next-step workflows.
-- [Common Room](https://www.commonroom.io) - Signal-based GTM platform capturing buying signals across 50+ channels including community activity, product usage, and intent.
-- [Warmly](https://www.warmly.ai) - De-anonymizes website visitors and initiates real-time engagement based on first-party, second-party, and third-party intent signals.
-- [Unify](https://www.unifygtm.com) - Signal-based warm outbound platform sourcing buying signals from 10+ data vendors with AI agents that research accounts and execute outreach.
-- [MadKudu](https://www.madkudu.com) - AI lead scoring and intent for PLG and ABM, identifying which self-serve users are enterprise-ready.
+- [Clay](https://www.clay.com) - Data enrichment and outbound automation platform that aggregates 150+ data providers into a spreadsheet-like interface for building lead lists, enriching contact data through waterfall lookups, and generating personalized outreach.
+- [Leadbay](https://www.leadbay.ai) - B2B prospecting tool that analyzes CRM and market data to score, enrich, and surface new leads, focused on helping field sales teams discover SMB prospects.
+- [UserGems](https://www.usergems.com) - Tracks job changes of former customers and champions, surfaces those contacts as warm leads at their new companies, and scores accounts based on buying signals and ICP fit.
+- [Common Room](https://www.commonroom.io) - Customer intelligence platform that captures buying signals from 50+ digital sources (community forums, social media, product usage, GitHub, etc.), resolves anonymous activity to identified contacts, and scores them for follow-up.
+- [Warmly](https://www.warmly.ai) - Identifies anonymous website visitors at the person and company level using third-party data, then automates outreach via AI chat, email, and LinkedIn based on intent signals.
+- [Unify](https://www.unifygtm.com) - Go-to-market platform combining intent signal monitoring from 10+ sources with automated outbound workflows, allowing teams to build sequences that research, qualify, and message prospects in one tool.
+- [MadKudu](https://www.madkudu.com) - Lead scoring platform that uses machine learning to combine product usage data, behavioral signals, and firmographic information to rank leads by conversion likelihood. Now part of HG Insights.
 
 ## Pipeline & Revenue Forecasting
 
-AI tools that analyze pipeline health, predict revenue outcomes, and flag deal risks with data-driven intelligence.
+AI tools that analyze pipeline health, predict revenue outcomes, and flag deal risks.
 
-- [Aviso](https://www.aviso.com) - AI revenue forecasting claiming 98% accuracy, with deal risk flagging and pipeline inspection by rep, stage, or risk level.
-- [BoostUp](https://www.boostup.ai) - RevenueBI with Deal Intelligence, Forecasting Intelligence, and native Conversation Intelligence.
+- [Aviso](https://www.aviso.com) - Revenue intelligence platform that generates sales forecasts by combining top-down and bottom-up models with machine learning, and provides deal-level risk analysis, what-if scenarios, and pipeline inspection.
+- [BoostUp](https://www.boostup.ai) - Revenue operations platform (rebranded to Terret) providing forecast management, pipeline review, and deal inspection by connecting CRM, conversation intelligence, and activity data with AI-driven risk scoring.
 
 ## GTM Content Generation
 
-AI that writes marketing copy, sales content, and campaign materials specifically optimized for go-to-market teams.
+AI that writes marketing copy, sales content, and campaign materials for go-to-market teams.
 
-- [Jasper](https://www.jasper.ai) - Enterprise AI content platform with brand voice controls, campaign-level content creation, and Surfer SEO integration.
-- [Copy.ai](https://www.copy.ai) - GTM AI platform with workflow automation connecting content generation, lead research, and outreach across 7,000+ integrations.
-- [Writer](https://writer.com) - Enterprise AI writing focused on brand governance, content compliance, and quality assurance for regulated industries.
-- [Anyword](https://anyword.com) - Data-driven copywriting with predictive performance scoring that grades copy on engagement and conversion potential before publishing.
-- [Tofu](https://tofuhq.com) - AI marketing platform for ABM combining content generation and multi-channel campaign orchestration.
-- [Autobound](https://www.autobound.ai) - AI that generates hyper-personalized sales emails using real-time signal monitoring and a sales listening engine.
+- [Jasper](https://www.jasper.ai) - AI content generation platform for marketing teams with 50+ copywriting templates, brand voice enforcement, and campaign management tools for producing ads, emails, blog posts, and landing pages.
+- [Copy.ai](https://www.copy.ai) - GTM workflow automation platform that uses AI to generate marketing and sales content and allows teams to build multi-step workflows combining research, content creation, and CRM operations.
+- [Writer](https://writer.com) - Enterprise AI platform built on proprietary LLMs (Palmyra models) for content generation, workflow automation, and knowledge retrieval, with built-in governance, brand voice enforcement, and compliance controls.
+- [Anyword](https://anyword.com) - AI copywriting platform that generates marketing content across channels (ads, emails, landing pages, social) and provides a predictive performance score estimating how well each variation will convert before publishing.
+- [Tofu](https://tofuhq.com) - B2B marketing content platform that ingests brand guidelines and segmentation data to generate personalized campaign assets (emails, landing pages, ads, blog posts) across multiple channels and target accounts.
+- [Astral](https://www.astral.now) - AI marketing agent that operates by navigating web browsers like a human user, automating tasks such as posting content, engaging in online community discussions, and executing campaigns across social platforms.
+- [Autobound](https://www.autobound.ai) - AI email assistant for B2B sales that researches prospects using 400+ signals (news, hiring, funding, SEC filings) and generates personalized cold email drafts, available as a Chrome extension that integrates into existing sales tools.
 
 ## Open Source
 
 ### AI Sales Agents
 
-- [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI sales agent built on LangChain with voice support (<1s round-trip), multi-LLM support via LiteLLM, and Stripe payment integration.
-- [Knotie-AI](https://github.com/avijeett007/Knotie-AI) - Fully open-source inbound/outbound AI sales agent with custom tool integration via OpenAPI/Swagger specs — no code modification needed.
-- [SalesCopilot](https://github.com/e-johnstonn/SalesCopilot) - Open-source AI sales call assistant with real-time transcription, live coaching, and objection detection — a Gong alternative.
+- [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - LLM-based sales agent framework that conducts multi-stage sales conversations, tracks dialogue state (introduction, qualification, objection handling, closing), and can generate Stripe payment links and Calendly invites. Supports 50+ language models via LiteLLM.
+- [Knotie-AI](https://github.com/avijeett007/Knotie-AI) - Python-based AI sales agent handling inbound and outbound voice and text via Twilio integration. Maintains conversation state through Redis, supports configurable workflows, and allows adding third-party APIs through OpenAPI specs without code changes.
+- [SalesCopilot](https://github.com/e-johnstonn/SalesCopilot) - Windows desktop application that transcribes sales calls in real time using OpenAI Whisper, detects customer objections with suggested responses, and lets users query a custom knowledge base during live conversations.
 
 ### Lead Generation & Research
 
-- [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - Autonomous deep research agent that scrapes 20+ web sources per task and generates long-form reports with citations.
-- [AI Lead Generator (Bright Data)](https://github.com/brightdata/ai-lead-generator) - AI agent using Bright Data scraping and OpenAI qualification to deliver outreach-ready B2B leads.
-- [AI Company Researcher](https://github.com/mayooear/ai-company-researcher) - AI agent built on LangGraph and FireCrawl that automates company research and lead prospecting from a single URL, with human-in-the-loop refinement.
+- [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - Research agent that takes a natural-language query, generates sub-questions, retrieves information from 20+ web sources concurrently, and compiles results into a cited report exportable as PDF, Word, or Markdown.
+- [AI Lead Generator (Bright Data)](https://github.com/brightdata/ai-lead-generator) - Streamlit-based Python application that accepts a target persona description, scrapes contact data from sources like LinkedIn via Bright Data's API, then scores and ranks leads against an ideal customer profile using OpenAI.
+- [AI Company Researcher](https://github.com/mayooear/ai-company-researcher) - LangGraph-based tool that takes a company website URL, crawls and extracts structured data using FireCrawl, and synthesizes findings into a research report via an LLM. Supports human-in-the-loop review with revision cycles.
 
 ---
 
