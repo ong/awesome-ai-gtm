@@ -109,6 +109,7 @@ AI that writes marketing copy, sales content, and campaign materials specificall
 - [Writer](https://writer.com) - Enterprise AI writing focused on brand governance, content compliance, and quality assurance for regulated industries.
 - [Anyword](https://anyword.com) - Data-driven copywriting with predictive performance scoring that grades copy on engagement and conversion potential before publishing.
 - [Tofu](https://tofuhq.com) - AI marketing platform for ABM combining content generation and multi-channel campaign orchestration.
+- [Astral](https://www.astral.now) - Autonomous AI marketing agent that navigates social media platforms like a human — browsing, creating content, and posting across channels 24/7 to execute content marketing campaigns for startups.
 - [Autobound](https://www.autobound.ai) - AI that generates hyper-personalized sales emails using real-time signal monitoring and a sales listening engine.
 
 ## Open Source
