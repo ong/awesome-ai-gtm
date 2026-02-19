@@ -51,6 +51,7 @@ AI systems that work alongside reps — providing real-time call guidance, autom
 - [Clari Copilot](https://www.clari.com/products/copilot/) - Conversation intelligence tool (formerly Wingman) providing real-time call transcription, live battlecards during calls, automated CRM field updates from meeting content, and deal summaries fed into Clari's forecasting workflows.
 - [Momentum](https://www.momentum.io) - Automation layer connecting sales call recorders (like Gong), Salesforce, and Slack. Automatically updates CRM fields, sends deal alerts to Slack, generates call summaries, and creates Slack-based deal rooms synced with Salesforce.
 - [Lavender](https://www.lavender.ai) - Email assistant that scores draft sales emails on a 0–100 scale based on length, reading level, tone, and personalization, then suggests improvements. Surfaces prospect and company data within the email composer.
+- [Aurasell](https://www.aurasell.com) - GTM operating system that adds workflow automation on top of Salesforce, HubSpot, and other CRMs. Automates research, enrichment, qualification, outreach, and CRM updates across the sales cycle, with access to an 84M+ account and 950M+ contact database.
 
 ## AI Visibility & GEO
 
@@ -111,6 +112,8 @@ AI that writes marketing copy, sales content, and campaign materials for go-to-m
 - [Tofu](https://tofuhq.com) - B2B marketing content platform that ingests brand guidelines and segmentation data to generate personalized campaign assets (emails, landing pages, ads, blog posts) across multiple channels and target accounts.
 - [Astral](https://www.astral.now) - AI marketing agent that operates by navigating web browsers like a human user, automating tasks such as posting content, engaging in online community discussions, and executing campaigns across social platforms.
 - [Autobound](https://www.autobound.ai) - AI email assistant for B2B sales that researches prospects using 400+ signals (news, hiring, funding, SEC filings) and generates personalized cold email drafts, available as a Chrome extension that integrates into existing sales tools.
+- [Kana](https://www.kana.ai) - Composable AI agents for marketing teams that handle audience targeting, campaign management, media planning, and AI visibility optimization. Agents can be configured per brand taxonomy and data permissions, with synthetic data generation for audience research and cross-channel reporting.
+- [Layers](https://layers.com) - Marketing automation platform for app developers that reads the codebase to generate product-aware content. Manages social media posts, paid ads, email campaigns, UGC, and app store optimization from a single workflow.
 
 ## Open Source
 
