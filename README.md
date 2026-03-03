@@ -39,6 +39,7 @@ Autonomous AI agents that replace or augment human Sales Development Reps — pr
 - [Oneshot AI](https://www.oneshot.ai) - Prospecting platform using a multi-agent system (Insight, Personalization, Integration, Persona, and Scaling agents) to research prospects, generate tailored messages, and sync activity with CRMs like HubSpot and Salesforce.
 - [Topo.io](https://topo.io) - B2B sales platform offering AI-driven outbound prospecting (lead sourcing, contact enrichment, personalized messaging) alongside digital sales rooms for buyer-seller collaboration, including shared content and deal tracking. Integrates with Salesforce, HubSpot, and Pipedrive.
 - [Qualified (Piper)](https://www.qualified.com) - Website conversion platform for Salesforce users. Its AI agent, Piper, engages inbound visitors via live chat, voice, and video, qualifies them using Salesforce data, books meetings, and follows up by email.
+- [BrandJet AI](https://www.brandjet.ai) - Brand intelligence and outreach automation platform that detects buying signals across digital platforms, enriches contacts, and runs multi-channel campaigns (email, LinkedIn, WhatsApp, Instagram) with AI agents. Includes Artemis MCP for executing GTM workflows via natural language and AI brand perception monitoring.
 
 ## AI Sales Agents & Copilots
 
@@ -73,7 +74,7 @@ Tools that dynamically change website content, CTAs, and experiences for differe
 
 Tools that record, transcribe, and analyze sales conversations — extracting coaching insights, deal signals, and performance analytics.
 
-- [Gong](https://www.gong.io) - Records and analyzes sales calls, emails, and meetings, then surfaces insights on deal health, coaching opportunities, and pipeline risks. Integrates with Salesforce and HubSpot for data entry and forecasting.
+- [Gong](https://www.gong.io) - Revenue AI platform that records and analyzes sales calls, emails, and meetings, surfacing insights on deal health, coaching opportunities, and pipeline risks. Includes AI-powered sales coaching with automated call review and role-play (Gong Enable), a conversational AI assistant, and MCP support for connecting with external AI systems. Integrates with Salesforce and HubSpot.
 - [Chorus (ZoomInfo)](https://www.chorus.ai) - Records, transcribes, and analyzes sales calls and meetings to surface conversation insights such as talk time, competitor mentions, and deal risk signals. Part of ZoomInfo, integrating conversation data with its B2B contact database.
 - [Fireflies.ai](https://fireflies.ai) - Joins and records meetings on Zoom, Google Meet, and Microsoft Teams, then generates transcripts, summaries, and action items. Includes speaker talk time and sentiment analytics, and syncs notes to CRMs.
 - [Fathom](https://fathom.video) - Records and transcribes Zoom, Google Meet, and Microsoft Teams meetings, then generates AI summaries and action items. Offers a free tier with unlimited recordings and integrates with CRMs, Slack, and Notion.
@@ -100,6 +101,7 @@ AI tools that analyze pipeline health, predict revenue outcomes, and flag deal r
 
 - [Aviso](https://www.aviso.com) - Revenue intelligence platform that generates sales forecasts by combining top-down and bottom-up models with machine learning, and provides deal-level risk analysis, what-if scenarios, and pipeline inspection.
 - [BoostUp](https://www.boostup.ai) - Revenue operations platform (rebranded to Terret) providing forecast management, pipeline review, and deal inspection by connecting CRM, conversation intelligence, and activity data with AI-driven risk scoring.
+- [Graphed](https://www.graphed.com) - AI data analytics and dashboard generator for growth teams. Automatically creates dashboards from uploaded data, surfaces sales and marketing insights via natural language queries, and supports MCP integration for AI-assisted data exploration across unified data sources.
 
 ## GTM Content Generation
 
