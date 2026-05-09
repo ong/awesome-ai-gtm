@@ -92,7 +92,7 @@ AI tools that find, score, enrich, and prioritize leads using firmographic, tech
 - [Common Room](https://www.commonroom.io) - Customer intelligence platform that captures buying signals from 50+ digital sources (community forums, social media, product usage, GitHub, etc.), resolves anonymous activity to identified contacts, and scores them for follow-up.
 - [Warmly](https://www.warmly.ai) - Identifies anonymous website visitors at the person and company level using third-party data, then automates outreach via AI chat, email, and LinkedIn based on intent signals.
 - [Unify](https://www.unifygtm.com) - Go-to-market platform combining intent signal monitoring from 10+ sources with automated outbound workflows, allowing teams to build sequences that research, qualify, and message prospects in one tool.
-- [MadKudu](https://www.madkudu.com) - Lead scoring platform that uses machine learning to combine product usage data, behavioral signals, and firmographic information to rank leads by conversion likelihood. Now part of HG Insights.
+- [findmemail.io](https://findmemail.io) - Plain-English ICP search ("VPs of growth at Series A SaaS in NYC") with SMTP-verified founder/decision-maker emails. Each email is RCPT-verified at request time, not pattern-matched. Free tier: 50 credits, $200 lifetime.- [MadKudu](https://www.madkudu.com) - Lead scoring platform that uses machine learning to combine product usage data, behavioral signals, and firmographic information to rank leads by conversion likelihood. Now part of HG Insights.
 
 ## Pipeline & Revenue Forecasting
 
