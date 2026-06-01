@@ -60,9 +60,6 @@ Tools for Generative Engine Optimization — monitoring and improving how brands
 - [Sitefire](https://sitefire.ai) - Analyzes how AI models (ChatGPT, Gemini, etc.) source and cite web content, then generates optimized pages and identifies third-party sites to increase brand visibility in AI-generated answers.
 - [Profound](https://www.tryprofound.com) - Tracks brand visibility across AI answer engines (ChatGPT, Perplexity, Google AI Overviews), monitors real user prompts, analyzes citations, and generates content briefs to improve how a brand appears in AI search results.
 - [Frase](https://www.frase.io) - Researches top-ranking pages for a given topic, provides a content editor with real-time SEO scoring, and includes a GEO score for optimizing content to be cited by AI platforms like ChatGPT and Perplexity.
-- [AthenaHQ](https://athenahq.ai) - Agentic AEO/GEO platform that monitors brand visibility, citations, sentiment, and competitor benchmarks across ChatGPT, Gemini, Claude, and Perplexity, then runs autonomous agents that identify content gaps and draft on-page and off-page fixes. Supports persona targeting by buyer role and multi-region tracking across 60+ countries and languages.
-- [Evertune](https://www.evertune.ai) - Enterprise generative engine optimization platform that runs over 1M custom prompts per brand each month across ChatGPT, Claude, Gemini, and Perplexity to measure how brands are represented in AI answers. Combines model-level brand perception data with a proprietary 25M-person consumer panel (EverPanel) to guide content and AI advertising strategy.
-- [Peec AI](https://peec.ai) - GEO analytics platform for marketing teams that runs brand- and topic-specific prompts daily across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews, logging whether and how a brand is mentioned. Tracks the citations shaping visibility, benchmarks against competitors, and segments results by model, country, and prompt intent.
 
 ## Website Personalization
 
@@ -96,6 +93,7 @@ AI tools that find, score, enrich, and prioritize leads using firmographic, tech
 - [Warmly](https://www.warmly.ai) - Identifies anonymous website visitors at the person and company level using third-party data, then automates outreach via AI chat, email, and LinkedIn based on intent signals.
 - [Unify](https://www.unifygtm.com) - Go-to-market platform combining intent signal monitoring from 10+ sources with automated outbound workflows, allowing teams to build sequences that research, qualify, and message prospects in one tool.
 - [MadKudu](https://www.madkudu.com) - Lead scoring platform that uses machine learning to combine product usage data, behavioral signals, and firmographic information to rank leads by conversion likelihood. Now part of HG Insights.
+- [Tapistro](https://www.tapistro.com) - Lead intelligence platform built on AI Autopilots and AI agents that capture real-time buying signals across G2, LinkedIn, and website visits, then orchestrate enrichment and outreach without manual workflow building. Consolidates intent, enrichment, and account research into a single layer that feeds sequences automatically.
 
 ## Pipeline & Revenue Forecasting
 
