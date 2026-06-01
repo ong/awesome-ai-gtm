@@ -60,6 +60,9 @@ Tools for Generative Engine Optimization — monitoring and improving how brands
 - [Sitefire](https://sitefire.ai) - Analyzes how AI models (ChatGPT, Gemini, etc.) source and cite web content, then generates optimized pages and identifies third-party sites to increase brand visibility in AI-generated answers.
 - [Profound](https://www.tryprofound.com) - Tracks brand visibility across AI answer engines (ChatGPT, Perplexity, Google AI Overviews), monitors real user prompts, analyzes citations, and generates content briefs to improve how a brand appears in AI search results.
 - [Frase](https://www.frase.io) - Researches top-ranking pages for a given topic, provides a content editor with real-time SEO scoring, and includes a GEO score for optimizing content to be cited by AI platforms like ChatGPT and Perplexity.
+- [AthenaHQ](https://athenahq.ai) - Agentic AEO/GEO platform that monitors brand visibility, citations, sentiment, and competitor benchmarks across ChatGPT, Gemini, Claude, and Perplexity, then runs autonomous agents that identify content gaps and draft on-page and off-page fixes. Supports persona targeting by buyer role and multi-region tracking across 60+ countries and languages.
+- [Evertune](https://www.evertune.ai) - Enterprise generative engine optimization platform that runs over 1M custom prompts per brand each month across ChatGPT, Claude, Gemini, and Perplexity to measure how brands are represented in AI answers. Combines model-level brand perception data with a proprietary 25M-person consumer panel (EverPanel) to guide content and AI advertising strategy.
+- [Peec AI](https://peec.ai) - GEO analytics platform for marketing teams that runs brand- and topic-specific prompts daily across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews, logging whether and how a brand is mentioned. Tracks the citations shaping visibility, benchmarks against competitors, and segments results by model, country, and prompt intent.
 
 ## Website Personalization
 
@@ -100,6 +103,7 @@ AI tools that analyze pipeline health, predict revenue outcomes, and flag deal r
 
 - [Aviso](https://www.aviso.com) - Revenue intelligence platform that generates sales forecasts by combining top-down and bottom-up models with machine learning, and provides deal-level risk analysis, what-if scenarios, and pipeline inspection.
 - [BoostUp](https://www.boostup.ai) - Revenue operations platform (rebranded to Terret) providing forecast management, pipeline review, and deal inspection by connecting CRM, conversation intelligence, and activity data with AI-driven risk scoring.
+- [Coffee](https://www.coffee.ai) - AI-native CRM agent that autonomously captures, enriches, and structures customer interactions from emails, calendars, and call transcripts into a single view of each deal. Runs standalone or as a companion app for Salesforce and HubSpot, surfacing week-over-week pipeline changes, stalled deals, and deal scoring to improve forecast accuracy.
 
 ## GTM Content Generation
 
@@ -128,6 +132,7 @@ AI that writes marketing copy, sales content, and campaign materials for go-to-m
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher) - Research agent that takes a natural-language query, generates sub-questions, retrieves information from 20+ web sources concurrently, and compiles results into a cited report exportable as PDF, Word, or Markdown.
 - [AI Lead Generator (Bright Data)](https://github.com/brightdata/ai-lead-generator) - Streamlit-based Python application that accepts a target persona description, scrapes contact data from sources like LinkedIn via Bright Data's API, then scores and ranks leads against an ideal customer profile using OpenAI.
 - [AI Company Researcher](https://github.com/mayooear/ai-company-researcher) - LangGraph-based tool that takes a company website URL, crawls and extracts structured data using FireCrawl, and synthesizes findings into a research report via an LLM. Supports human-in-the-loop review with revision cycles.
+- [open-sdr](https://github.com/MatthewDailey/open-sdr) - Command-line SDR agent that researches lists of companies and automates outbound lead generation. Ships with an MCP server that exposes its research and lead-generation tools to other MCP clients.
 
 ---
 
