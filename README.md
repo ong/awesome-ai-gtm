@@ -93,6 +93,7 @@ AI tools that find, score, enrich, and prioritize leads using firmographic, tech
 - [Warmly](https://www.warmly.ai) - Identifies anonymous website visitors at the person and company level using third-party data, then automates outreach via AI chat, email, and LinkedIn based on intent signals.
 - [Unify](https://www.unifygtm.com) - Go-to-market platform combining intent signal monitoring from 10+ sources with automated outbound workflows, allowing teams to build sequences that research, qualify, and message prospects in one tool.
 - [MadKudu](https://www.madkudu.com) - Lead scoring platform that uses machine learning to combine product usage data, behavioral signals, and firmographic information to rank leads by conversion likelihood. Now part of HG Insights.
+- [GTM.AI](https://www.gtm.ai) - data enrichment and orchestration for agentic workflows.
 
 ## Pipeline & Revenue Forecasting
 
