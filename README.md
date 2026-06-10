@@ -114,6 +114,7 @@ AI that writes marketing copy, sales content, and campaign materials for go-to-m
 - [Autobound](https://www.autobound.ai) - AI email assistant for B2B sales that researches prospects using 400+ signals (news, hiring, funding, SEC filings) and generates personalized cold email drafts, available as a Chrome extension that integrates into existing sales tools.
 - [Kana](https://www.kana.ai) - Composable AI agents for marketing teams that handle audience targeting, campaign management, media planning, and AI visibility optimization. Agents can be configured per brand taxonomy and data permissions, with synthetic data generation for audience research and cross-channel reporting.
 - [Layers](https://layers.com) - Marketing automation platform for app developers that reads the codebase to generate product-aware content. Manages social media posts, paid ads, email campaigns, UGC, and app store optimization from a single workflow.
+- [MyTalos](https://mytalos.ai) - AI Business Operator for one-person company founders that autonomously runs the full GTM stack — research, positioning, landing pages, ads, outbound sequences, and lead funnels — through a weekly optimization loop.
 
 ## Open Source
 
