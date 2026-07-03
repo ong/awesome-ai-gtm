@@ -38,7 +38,8 @@ Autonomous AI agents that replace or augment human Sales Development Reps — pr
 - [Amplemarket](https://www.amplemarket.com) - Sales engagement platform combining a B2B lead database, multichannel sequencing (email, LinkedIn, WhatsApp, iMessage), and an AI copilot called Duo that monitors buying signals like job changes and competitor activity to trigger outreach.
 - [Oneshot AI](https://www.oneshot.ai) - Prospecting platform using a multi-agent system (Insight, Personalization, Integration, Persona, and Scaling agents) to research prospects, generate tailored messages, and sync activity with CRMs like HubSpot and Salesforce.
 - [Topo.io](https://topo.io) - B2B sales platform offering AI-driven outbound prospecting (lead sourcing, contact enrichment, personalized messaging) alongside digital sales rooms for buyer-seller collaboration, including shared content and deal tracking. Integrates with Salesforce, HubSpot, and Pipedrive.
-- [Qualified (Piper)](https://www.qualified.com) - Website conversion platform for Salesforce users. Its AI agent, Piper, engages inbound visitors via live chat, voice, and video, qualifies them using Salesforce data, books meetings, and follows up by email.
+- [Qualified (Piper)](https://www.qualified.com)
+- [Hermes](https://www.buildwithhermes.com) - Operating platform for AI voice agencies. Deploys AI phone agents that handle inbound and outbound calls, qualify leads, and book meetings, with multi-workspace management, white-label branding, and built-in CRM and campaign orchestration. - Website conversion platform for Salesforce users. Its AI agent, Piper, engages inbound visitors via live chat, voice, and video, qualifies them using Salesforce data, books meetings, and follows up by email.
 
 ## AI Sales Agents & Copilots
 
