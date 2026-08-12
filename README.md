@@ -60,6 +60,7 @@ Tools for Generative Engine Optimization — monitoring and improving how brands
 - [Sitefire](https://sitefire.ai) - Analyzes how AI models (ChatGPT, Gemini, etc.) source and cite web content, then generates optimized pages and identifies third-party sites to increase brand visibility in AI-generated answers.
 - [Profound](https://www.tryprofound.com) - Tracks brand visibility across AI answer engines (ChatGPT, Perplexity, Google AI Overviews), monitors real user prompts, analyzes citations, and generates content briefs to improve how a brand appears in AI search results.
 - [Frase](https://www.frase.io) - Researches top-ranking pages for a given topic, provides a content editor with real-time SEO scoring, and includes a GEO score for optimizing content to be cited by AI platforms like ChatGPT and Perplexity.
+- [Mentioned](https://mentioned.to) - Done-for-you Reddit growth service for SEO and AI search visibility. Finds the Reddit threads already ranking on Google for a brand's keywords, writes and publishes native posts and comments from managed accounts, and reports share of voice against competitors. Paid managed service, not self-serve software, from $2,000/month.
 
 ## Website Personalization
 
