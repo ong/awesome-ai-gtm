@@ -114,6 +114,7 @@ AI that writes marketing copy, sales content, and campaign materials for go-to-m
 - [Autobound](https://www.autobound.ai) - AI email assistant for B2B sales that researches prospects using 400+ signals (news, hiring, funding, SEC filings) and generates personalized cold email drafts, available as a Chrome extension that integrates into existing sales tools.
 - [Kana](https://www.kana.ai) - Composable AI agents for marketing teams that handle audience targeting, campaign management, media planning, and AI visibility optimization. Agents can be configured per brand taxonomy and data permissions, with synthetic data generation for audience research and cross-channel reporting.
 - [Layers](https://layers.com) - Marketing automation platform for app developers that reads the codebase to generate product-aware content. Manages social media posts, paid ads, email campaigns, UGC, and app store optimization from a single workflow.
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) - API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels, with MCP support and direct integration options for GTM content workflows.
 
 ## Open Source
 
