@@ -81,6 +81,7 @@ Tools that record, transcribe, and analyze sales conversations — extracting co
 - [Avoma](https://www.avoma.com) - Combines meeting recording, transcription, and note-taking with scheduling, conversation scoring, and CRM field auto-population. Supports sales methodologies like MEDDIC and SPICED.
 - [Grain](https://grain.com) - Records and transcribes meetings across Zoom, Google Meet, and Microsoft Teams, generating notes and action items. Supports creating video clips from transcript selections and syncing to HubSpot, Salesforce, and Slack.
 - [Otter.ai](https://otter.ai) - Provides real-time and post-meeting transcription with speaker identification, AI-generated summaries, and action item extraction. Supports uploading pre-recorded files and includes an AI chat feature for querying past meeting content.
+- [Speak AI](https://speakai.co) - Scores sales calls, meetings, and role plays against your own methodology in 100+ languages, then turns them into coaching notes, CRM updates, and proposals, with human review before anything sends.
 
 ## Lead Scoring & Enrichment
 
