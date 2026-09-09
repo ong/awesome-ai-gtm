@@ -122,6 +122,7 @@ AI that writes marketing copy, sales content, and campaign materials for go-to-m
 - [SalesGPT](https://github.com/filip-michalsky/SalesGPT) - LLM-based sales agent framework that conducts multi-stage sales conversations, tracks dialogue state (introduction, qualification, objection handling, closing), and can generate Stripe payment links and Calendly invites. Supports 50+ language models via LiteLLM.
 - [Knotie-AI](https://github.com/avijeett007/Knotie-AI) - Python-based AI sales agent handling inbound and outbound voice and text via Twilio integration. Maintains conversation state through Redis, supports configurable workflows, and allows adding third-party APIs through OpenAPI specs without code changes.
 - [SalesCopilot](https://github.com/e-johnstonn/SalesCopilot) - Windows desktop application that transcribes sales calls in real time using OpenAI Whisper, detects customer objections with suggested responses, and lets users query a custom knowledge base during live conversations.
+- [LangGraph Sales Agent](https://github.com/yerdaulet-damir/langgraph-sales-agent) - Multi-tenant sales agent framework that gives each business an isolated agent, catalog, tools, and model configuration across Telegram, Instagram, WhatsApp, and web.
 
 ### Lead Generation & Research
 
