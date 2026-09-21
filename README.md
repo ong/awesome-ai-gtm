@@ -39,6 +39,7 @@ Autonomous AI agents that replace or augment human Sales Development Reps — pr
 - [Oneshot AI](https://www.oneshot.ai) - Prospecting platform using a multi-agent system (Insight, Personalization, Integration, Persona, and Scaling agents) to research prospects, generate tailored messages, and sync activity with CRMs like HubSpot and Salesforce.
 - [Topo.io](https://topo.io) - B2B sales platform offering AI-driven outbound prospecting (lead sourcing, contact enrichment, personalized messaging) alongside digital sales rooms for buyer-seller collaboration, including shared content and deal tracking. Integrates with Salesforce, HubSpot, and Pipedrive.
 - [Qualified (Piper)](https://www.qualified.com) - Website conversion platform for Salesforce users. Its AI agent, Piper, engages inbound visitors via live chat, voice, and video, qualifies them using Salesforce data, books meetings, and follows up by email.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice agents that answer inbound calls, qualify leads, book appointments, and capture after-hours opportunities.
 
 ## AI Sales Agents & Copilots
 
